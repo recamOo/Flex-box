@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "aula-flex-box-faculdade-web-design",
+			"path": "../../../../../aula-flex-box-faculdade-web-design"
+		},
+		{
+			"name": "FlexDisplay",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FlexDisplay"
+	}
+}
