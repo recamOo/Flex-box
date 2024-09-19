@@ -8,19 +8,18 @@ img {
 }
 
 .cat{
-    border: 5px solid greenyellow;
+    border: 5px solid green;
 }
 
 .horse{
-    border: 5px solid rgb(196, 19, 19);
+    border: 5px solid yellow;
 }
 
 .camel{
-    border: 5px solid rgb(9, 72, 245);
-    order: -1;
+    border: 5px solid red;
 }
 
 .animals{
     display: flex;
     justify-content: space-between;
-    }
+}
